@@ -45,6 +45,12 @@ Cons:
 
 Polkadot definitely has a spot in the race for the best interoperability solution in the cryptocurrency space. Founded by Gavin Wood, former Co-Founder and CTO of Ethereum, Polkadot's technology addresses the major issues that have stymied blockchain adoption in recent years and it is on the road of building the internet of blockchains of the future. 
 
+## Other notes
+
+- Polkadot wants leading position as a platform to help people build entire blockchains and integrate these blockchains with each other
+- Polkadot’s greatest strength is Substrate. This is a development framework for creating Polkadot-compatible blockchains and offers different levels of abstraction depending on developers’ needs. Substrate dramatically reduces the time, energy and money required to create a new blockchain.
+- It’s designed to facilitate an Internet where independent blockchains can exchange information and transactions in a trustless way via the Polkadot relay chain.
+
 ## Sources
 
 - https://sashares.co.za/polkadot-review/#gs.qkks6g
